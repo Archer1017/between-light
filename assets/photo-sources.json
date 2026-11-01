@@ -1,0 +1,105 @@
+{
+  "notice": "All images are demo placeholders from external sources, not the student’s own photographs. Replace before exam submission.",
+  "photos": [
+    {
+      "id": "landscape-01",
+      "file": "assets/images/landscape-01.webp",
+      "thumbnail": "assets/images/landscape-01-thumb.webp",
+      "title": "Mountain Road in the Mist",
+      "alt": "A winding road along green cliffs shrouded in mist",
+      "isDemo": true,
+      "source": "Lorem Picsum / Unsplash",
+      "author": "Andrew Ridley",
+      "sourcePage": "https://unsplash.com/photos/Kt5hRENuotI",
+      "downloadUrl": "https://picsum.photos/id/1018/1600/1100"
+    },
+    {
+      "id": "landscape-02",
+      "file": "assets/images/landscape-02.webp",
+      "thumbnail": "assets/images/landscape-02-thumb.webp",
+      "title": "Between the Fjords",
+      "alt": "A blue fjord stretching between pale grey rock faces",
+      "isDemo": true,
+      "source": "Lorem Picsum / Unsplash",
+      "author": "Alexey Topolyanskiy",
+      "sourcePage": "https://unsplash.com/photos/-oWyJoSqBRM",
+      "downloadUrl": "https://picsum.photos/id/1015/1600/1100"
+    },
+    {
+      "id": "landscape-03",
+      "file": "assets/images/landscape-03.webp",
+      "thumbnail": "assets/images/landscape-03-thumb.webp",
+      "title": "Canyon at Sunset",
+      "alt": "Warm evening light falling across red-brown cliffs and rocks",
+      "isDemo": true,
+      "source": "Lorem Picsum / Unsplash",
+      "author": "Philippe Wuyts",
+      "sourcePage": "https://unsplash.com/photos/_h7aBovKia4",
+      "downloadUrl": "https://picsum.photos/id/1016/1600/1100"
+    },
+    {
+      "id": "landscape-04",
+      "file": "assets/images/landscape-04.webp",
+      "thumbnail": "assets/images/landscape-04-thumb.webp",
+      "title": "Among the Snowy Peaks",
+      "alt": "Snow-covered mountain peaks above a deep valley",
+      "isDemo": true,
+      "source": "Lorem Picsum / Unsplash",
+      "author": "Go Wild",
+      "sourcePage": "https://unsplash.com/photos/V0yAek6BgGk",
+      "downloadUrl": "https://picsum.photos/id/29/1600/1100"
+    },
+    {
+      "id": "city-01",
+      "file": "assets/images/city-01.webp",
+      "thumbnail": "assets/images/city-01-thumb.webp",
+      "title": "The Rhythm of the Street",
+      "alt": "Pedestrians and vehicles crossing an intersection between tall city buildings",
+      "isDemo": true,
+      "source": "Unsplash",
+      "author": null,
+      "sourcePage": null,
+      "downloadUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1600&h=1100&q=88",
+      "attributionNote": "Image source verified; photographer identity not verified."
+    },
+    {
+      "id": "city-02",
+      "file": "assets/images/city-02.webp",
+      "thumbnail": "assets/images/city-02-thumb.webp",
+      "title": "Streets at Dusk",
+      "alt": "Traffic and streetlights reflected on a city street at dusk",
+      "isDemo": true,
+      "source": "Unsplash",
+      "author": null,
+      "sourcePage": null,
+      "downloadUrl": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1600&h=1100&q=88",
+      "attributionNote": "Image source verified; photographer identity not verified."
+    },
+    {
+      "id": "city-03",
+      "file": "assets/images/city-03.webp",
+      "thumbnail": "assets/images/city-03-thumb.webp",
+      "title": "A View Across the City",
+      "alt": "A view over a dense city skyline toward a lake and the evening sky",
+      "isDemo": true,
+      "source": "Unsplash",
+      "author": null,
+      "sourcePage": null,
+      "downloadUrl": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1600&h=1100&q=88",
+      "attributionNote": "Image source verified; photographer identity not verified."
+    },
+    {
+      "id": "city-04",
+      "file": "assets/images/city-04.webp",
+      "thumbnail": "assets/images/city-04-thumb.webp",
+      "title": "Waterfront Skyline",
+      "alt": "A city skyline beside blue water, with the moon rising above",
+      "isDemo": true,
+      "source": "Unsplash",
+      "author": null,
+      "sourcePage": null,
+      "downloadUrl": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=1600&h=1100&q=88",
+      "attributionNote": "Image source verified; photographer identity not verified."
+    }
+  ]
+}

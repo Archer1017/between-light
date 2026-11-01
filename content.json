@@ -1,0 +1,81 @@
+{
+  "siteTitle": "Between Light",
+  "name": "",
+  "email": "",
+  "location": "",
+  "role": "",
+  "profileNote": "",
+  "contactNote": "Please get in touch if you would like to discuss my work or share your feedback.",
+  "intro": "I use photography to observe everyday life, exploring light in natural landscapes and noticing the small details of the city. This website brings together my photography studies and personal projects.",
+  "introIsDraft": true,
+  "collections": [
+    {
+      "slug": "landscapes",
+      "title": "Landscapes",
+      "english": "LANDSCAPES",
+      "description": "Mountains, lakes and open spaces, exploring light and depth in the natural world.",
+      "cover": "assets/images/landscape-01.webp",
+      "coverAlt": "A winding road along green cliffs shrouded in mist (sample photograph)",
+      "photos": [
+        {
+          "src": "assets/images/landscape-01.webp",
+          "title": "Mountain Road in the Mist",
+          "alt": "A winding road along green cliffs shrouded in mist",
+          "sample": true
+        },
+        {
+          "src": "assets/images/landscape-02.webp",
+          "title": "Between the Fjords",
+          "alt": "A blue fjord stretching between pale grey rock faces",
+          "sample": true
+        },
+        {
+          "src": "assets/images/landscape-03.webp",
+          "title": "Canyon at Sunset",
+          "alt": "Warm evening light falling across red-brown cliffs and rocks",
+          "sample": true
+        },
+        {
+          "src": "assets/images/landscape-04.webp",
+          "title": "Among the Snowy Peaks",
+          "alt": "Snow-covered mountain peaks above a deep valley",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "slug": "city",
+      "title": "City Life",
+      "english": "URBAN OBSERVATIONS",
+      "description": "Streets, buildings and everyday moments, finding new perspectives in familiar places.",
+      "cover": "assets/images/city-01.webp",
+      "coverAlt": "Pedestrians and vehicles crossing an intersection between tall city buildings (sample photograph)",
+      "photos": [
+        {
+          "src": "assets/images/city-01.webp",
+          "title": "The Rhythm of the Street",
+          "alt": "Pedestrians and vehicles crossing an intersection between tall city buildings",
+          "sample": true
+        },
+        {
+          "src": "assets/images/city-02.webp",
+          "title": "Streets at Dusk",
+          "alt": "Traffic and streetlights reflected on a city street at dusk",
+          "sample": true
+        },
+        {
+          "src": "assets/images/city-03.webp",
+          "title": "A View Across the City",
+          "alt": "A view over a dense city skyline toward a lake and the evening sky",
+          "sample": true
+        },
+        {
+          "src": "assets/images/city-04.webp",
+          "title": "Waterfront Skyline",
+          "alt": "A city skyline beside blue water, with the moon rising above",
+          "sample": true
+        }
+      ]
+    }
+  ]
+}
